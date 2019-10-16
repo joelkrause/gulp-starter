@@ -6,4 +6,4 @@ gulp starter file
 2. Go to directory where you need gulp
 3. Run: `npm init` this will create a package.json file
 4. Add gulp to your dev dependencies `npm install --save-dev gulp`
-5. Clone this repo to your directory with `git clone https://github.com/joelkrause/gulp-starter.git .`
+5. Download the file from GitHub - or you can run this commend `curl -LO https://raw.github.com/joelkrause/gulp-starter/master/gulpfile.js`
